@@ -42,7 +42,7 @@ The output is a responsive web page that displays a list of movies in styled car
 - **Interactive Alerts**: Clicking on a movie card pops up an alert with the movie title.
 - **Responsive Design**: The layout adjusts to different screen sizes for a better user experience.
 
-### 📸 **Sample Output Screenshots**
+### 📸 **Output Screenshots**
 
 1. **Default View (All Genres)**  
 <img width="2240" alt="image" src="https://github.com/user-attachments/assets/f2465317-29eb-4bee-9072-e0c72aa0bb15" />
