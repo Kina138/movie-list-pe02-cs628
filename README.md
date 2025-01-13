@@ -80,11 +80,5 @@ The output is a responsive web page that displays a list of movies in styled car
 5. **Open the Application**:
    - Visit `http://localhost:3000` in your browser.
 
-6. **Troubleshooting**:
-   - If errors occur, try:
-     ```bash
-     npm install
-     npm start
-     ```
 
 This setup allows you to run and interact with the Movie List Application smoothly.
