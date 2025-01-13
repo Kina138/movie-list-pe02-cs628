@@ -1,7 +1,5 @@
 # movie-list-pe02-cs628
 
-# Movie List Application
-
 ## Input
 The program starts with a static list of 20 movies defined in the `MovieList.js` file. Each movie object contains:
 - **Title**: The name of the movie.
@@ -61,12 +59,12 @@ The output is a responsive web page that displays a list of movies in styled car
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/MovieListApp.git
+   git clone https://github.com/Kina138/movie-list-pe02-cs628.git
    ```
 
 2. **Navigate to the Project Directory**:
    ```bash
-   cd MovieListApp
+   cd movie-list
    ```
 
 3. **Install Dependencies**:
